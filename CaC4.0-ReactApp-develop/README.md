@@ -1,0 +1,1 @@
+- Exchange API: https://exchangerate.host/#/#docs
